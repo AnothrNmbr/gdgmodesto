@@ -1,4 +1,0 @@
-gdgmodesto
-==========
-
-GDG Modesto
